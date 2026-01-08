@@ -1,5 +1,7 @@
 # Welcome to pyospackage-cea
 
+Here is the link to TestPyPI: [![pyospackage_cea 0.1.0](https://test.pypi.org/project/pyospackage_cea/0.1.0/)]
+
 |        |        |
 |--------|--------|
 | Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage-cea.svg)](https://pypi.org/project/pyospackage-cea/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage-cea.svg)](https://pypi.org/project/pyospackage-cea/)  |
